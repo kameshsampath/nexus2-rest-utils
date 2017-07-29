@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: nexus-utils
+
+nexus:
+  url: http://localhost:8081
+  userName: admin
+  password: admin123
+  repositoryResourcePaths:
+    - "${user.home}/nexus-proxy-repos.yaml"

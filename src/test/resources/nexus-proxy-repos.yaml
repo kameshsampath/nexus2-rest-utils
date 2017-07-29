@@ -1,0 +1,14 @@
+---
+
+-
+  id: "fusesource-ea"
+  name: "Fuse Source EA"
+  repoType: proxy
+  repoPolicy: RELEASE
+  remoteUri: "https://repo.fusesource.com/nexus/content/groups/ea"
+-
+  id: "fusesource-public"
+  name: "Fuse Public"
+  repoType: proxy
+  repoPolicy: RELEASE
+  remoteUri: "https://repo.fusesource.com/nexus/content/groups/public/"
